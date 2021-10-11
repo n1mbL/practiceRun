@@ -1,5 +1,5 @@
-# Prepping for my first Midterms
+# Attempting to do a request
 
-## Practice makes perfect
+## Editing this file and will request it locally
 
-Just trying to get familiar with the git and github commands.
+will try the git request
